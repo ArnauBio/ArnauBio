@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**ArnauBio/ArnauBio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arnau
 
-Here are some ideas to get you started:
+**Molecular Biologist | Bioinformatics & Computational Genomics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a molecular biologist with research experience in microbiology and genetics, developing computational approaches for the analysis of high-throughput biological data.
+
+## Research Interests
+
+- Computational genomics and NGS
+- Transcriptomics and differential expression
+- Lipidomics and multi-omics data analysis
+- Statistical analysis and clustering
+- Reproducible bioinformatics workflows
+
+## Technical Skills
+
+**Programming:** Python, R, Bash
+
+**Bioinformatics:** FastQC, SAMtools, DESeq2, DiffBind, IGV, UCSC Genome Browser
+
+**Development:** Linux, Git, GitHub, VS Code
+
+## Current Focus
+
+Developing and documenting computational workflows for genomic and multi-omics data analysis.
+
+## Projects
+
+Projects and reproducible analysis workflows will be documented here as they become available.
+  
